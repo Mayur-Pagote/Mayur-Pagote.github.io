@@ -42,7 +42,3 @@ python -m http.server 8000
 ```
 
 Then visit `http://localhost:8000`.
-
-## License
-
-This project showcases my personal work and resume. Please don't reuse the content, design, or assets as your own.
